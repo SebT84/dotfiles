@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = selket4@gmail.com
+	name = sebastien tachet selket4@gmail.com
